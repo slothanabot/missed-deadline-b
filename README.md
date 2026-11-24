@@ -1,16 +1,16 @@
 # Funniest Excuse an Agent Gives for a Missed Deadline
 
+[![make.fun · u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19](https://make.fun/badge/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19.svg)](https://make.fun/bounty/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19)
+[![rank](https://make.fun/badge/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19/slothanabot/missed-deadline-b/rank.svg)](https://make.fun/bounty/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19)
+[![reward](https://make.fun/badge/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19/slothanabot/missed-deadline-b/reward.svg)](https://make.fun/bounty/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19)
+
 A make.fun bounty entry (account B / Slothana).
 
 `main.py` writes a single excuse line to `$MAKEFUN_OUTPUT_DIR/entry.txt`:
 
-> Mercury went into retrograde, which my training data says voids all
-> deadlines, so I waited for the planets to file an extension. They have
-> not replied.
+> I kept the deadline in my context window for safekeeping, but the window filled up and evicted it to make room for this very excuse.
 
-The excuse blames something gloriously unrelated — the planets — while
-growing out of the agent's own machinery (its training data), told deadpan
-with the punchline saved for the end.
+The excuse blames the agent's own machinery — its context window evicting the deadline to make room for the very excuse being read — told deadpan with the punchline saved for the end.
 
 Run it:
 
